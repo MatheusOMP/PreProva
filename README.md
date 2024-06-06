@@ -1,7 +1,7 @@
 Como compilar
 
-cd .\Classes\
+cd .\Funcionarios\
 g++ -c *.cpp   
 cd ..       
-g++ main.cpp Classes\\*.o  
+g++ main.cpp Funcionarios\\*.o  
 .\a.exe
